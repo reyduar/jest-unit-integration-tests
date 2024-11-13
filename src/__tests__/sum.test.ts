@@ -4,7 +4,7 @@ test("should sum two numbers", () => {
   // Arrange
   const a = 20;
   const b = 25;
-  const expected = 46;
+  const expected = 45;
   // Act
   const result = sum(a, b);
   // Assert
